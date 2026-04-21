@@ -167,7 +167,7 @@
       <div class="exp-rule"></div>
       <div>
         <div class="exp-role">Senior UX Designer</div>
-        <div class="exp-co">Tieto</div>
+        <div class="exp-co">Tieto Finland Oy</div>
         <p class="exp-desc">Ux-töitä asiakkaille Metsä Group (Wood, Fibre, Board, Tissue), Kesko, Helsingin Energia, Ilmarinen, Sampo Group, Lähitapiola, Turva, Alma Media. Kotimaiset ja kansainväliset tiimit.</p>
       </div>
     </div>
