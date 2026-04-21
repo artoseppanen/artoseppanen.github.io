@@ -181,7 +181,7 @@
       position: fixed;
       inset: 56px 0 0;
       background: var(--link);
-	  height: 408px;
+	  height: 417px;
       z-index: 199;
       display: none;
       flex-direction: column;
