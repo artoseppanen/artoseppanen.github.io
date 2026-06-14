@@ -430,21 +430,18 @@
 
     .portfolio-grid {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
 	  margin-left:-48px;
     }
 
     .portfolio-card {
-      border-left: 1px solid var(--rule);
-      padding: 0 48px;
+      padding: 0 48px 48px;
 	  margin-top: 24px;
     }
 	
 	 .portfolio-card h4 {margin-bottom: 24px;}
 	 .portfolio-card h4 a {text-decoration:none; color: var(--ink);}
 
-    .portfolio-card:first-child { border-left: none; }
-	 .portfolio-card:last-child { }
 
     .portfolio-img {
       width: 100%;
@@ -637,8 +634,7 @@
 
       .portfolio-grid { grid-template-columns: 1fr; margin-left:0; }
       .portfolio-card {border:0;padding: 64px 0 0;margin-top: 0;}
-      .portfolio-card:first-child { border-top: none; padding-top: 0; }
-	  
+      .portfolio-card:first-child { border-top: none; padding-top: 0; }	  
 
       .yhteys-grid { grid-template-columns: 1fr; }
       .yhteys-cell:nth-child(even) {border-left: none;padding: 16px 0;}
